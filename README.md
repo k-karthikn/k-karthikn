@@ -1,6 +1,5 @@
-# 💫 About Me:
-Hello I am Karthikeyan K<br>Electronics and Communication Engineering<br><br>
-
+# 💫 About Me
+Hello, I'm Karthikeyan K, an Electronics and Communication Engineer passionate about embedded systems, IoT, cybersecurity, and open-source development. I focus on building efficient, modular, and lightweight software—bridging the gap between microcontrollers, Linux systems, and user applications.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/itz_karthi_k) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:karthikeyan02116k@gmail.com) 
