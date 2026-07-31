@@ -35,9 +35,11 @@ Hello, I'm **Karthikeyan K**, an Electronics and Communication Engineer passiona
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=k-karthikn&theme=transparent&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com/?user=k-karthikn&theme=transparent&hide_border=false" alt="Streak Stats" />
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=k-karthikn&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+
+<img src="https://github-readme-stats.shion.dev/api?username=k-karthikn&theme=radical&hide_border=true&include_all_commits=true&count_private=true" width="60%" /><br/><br/>
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=k-karthikn&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="60%" /><br/><br/>
+<img src="https://streak-stats.demolab.com/?user=k-karthikn&theme=radical&hide_border=true" width="60%" />
+
 </div>
 
 <br/>
