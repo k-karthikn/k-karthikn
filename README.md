@@ -10,6 +10,7 @@ Hello, I'm Karthikeyan K, an Electronics and Communication Engineer passionate a
 ![](https://github-readme-stats.shion.dev/api?username=k-karthikn&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=k-karthikn&theme=transparent&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=k-karthikn&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
