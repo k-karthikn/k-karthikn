@@ -48,8 +48,6 @@ Hello, I'm **Karthikeyan K**, an Electronics and Communication Engineer passiona
   <img src="./line1.gif" alt="Divider" width="80%" />
 </div>
 
-## ✍️ Random Dev Quote
-
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" alt="Random Dev Quote" />
 </div>
